@@ -22,7 +22,7 @@ ShadowDeauth-DF is a powerful tool for executing cyberattacks like Deauth and DO
 1. Open the terminal.
 2. Download the tool and run the installer:
    ```bash
-   git clone https://github.com/MohamedAbuAl-Saud/MAC-ADDRESS-ATTACK-/
+   git clone https://github.com/MohamedAbuAl-Saud/MAC-ADDRESS-ATTACK/
    cd MAC-ADDRESS-ATTACK
    chmod +x install.sh
    sudo ./install.sh

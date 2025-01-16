@@ -1,0 +1,8 @@
+scapy
+rich
+pyfiglet
+thread6
+platform
+subprocess
+os
+colorama
